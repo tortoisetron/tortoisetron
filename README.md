@@ -88,9 +88,8 @@ MySQL • PostgreSQL • Supabase • ChromaDB
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/tortoisetron/tortoisetron/blob/output/github-contribution-grid-snake.svg)
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/tortoisetron/tortoisetron/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 ---
 
