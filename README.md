@@ -86,7 +86,7 @@ MySQL • PostgreSQL • Supabase • ChromaDB
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tortoisetron&theme=github-dark" />
 </p>
 
-![Snake animation](https://github.com/tortoisetron/tortoisetron/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/tortoisetron/tortoisetron/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
 
