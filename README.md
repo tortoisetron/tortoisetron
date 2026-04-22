@@ -6,21 +6,6 @@
 </p>
 
 ---
-### 🧾 Phungasang Platform
-
-<p align="center">
-  <a href="https://www.phungasang.in/" target="_blank">
-    <img src="https://api.microlink.io/?url=https://www.phungasang.in/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.phungasang.in/">
-    <img src="https://img.shields.io/badge/Visit%20Live%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🧠 About Me
 - 🔭 Currently building: **Event Ticketing System with QR + Multi-day logic**
@@ -75,6 +60,22 @@ MySQL • PostgreSQL • Supabase • ChromaDB
 - Python scripts for S3 automation
 - Data processing pipelines
 - Selenium-based workflow automation
+
+---
+
+### 🧾 Phungasang Platform
+
+<p align="center">
+  <a href="https://www.phungasang.in/" target="_blank">
+    <img src="https://api.microlink.io/?url=https://www.phungasang.in/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.phungasang.in/">
+    <img src="https://img.shields.io/badge/Visit%20Live%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
