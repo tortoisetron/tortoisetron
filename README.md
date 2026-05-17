@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanish Wahengbam</h1>
+<h1 align="center">Kon'nichiwa 👋, I'm Tanish Wahengbam</h1>
 <h3 align="center">🚀 Full Stack Developer | AI Systems Builder</h3>
 
 <p align="center">
@@ -107,6 +107,7 @@ MySQL • PostgreSQL • Supabase • ChromaDB
 ---
 
 ## 🏆 Achievements
+- Founder & Developer of [Phungasang](https://phungasang.in) — an AI-powered multilingual education and cultural preservation platform
 - Built **production-level eCommerce systems**
 - Developed **AI-powered applications (RAG + Agentic AI)**
 - Integrated **Zoho ecosystem + AWS pipelines**
