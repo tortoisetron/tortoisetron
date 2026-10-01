@@ -225,3 +225,37 @@ Zoho Integrations
 Multilingual AI Applications
         ↓
 SaaS Experiments
+
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tortoisetron&theme=github-dark" />
+</p>
+
+<img src="https://raw.githubusercontent.com/tortoisetron/tortoisetron/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+## 🏆 Achievements
+- Founder & Developer of [Phungasang](https://phungasang.in) — an AI-powered multilingual education and cultural preservation platform
+- Built **production-level eCommerce systems**
+- Developed **AI-powered applications (RAG + Agentic AI)**
+- Integrated **Zoho ecosystem + AWS pipelines**
+- Created **automation tools for real-world workflows**
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/tortoisetron
+- Email: tanishwahengbam3325@gmail.com
+
+---
+
+## ⚡ Fun Zone
+> "Code. Build. Break. Fix. Repeat."
+
+🚀 Always shipping something new.
