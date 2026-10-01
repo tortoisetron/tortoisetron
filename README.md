@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hey, I'm Tanish Wahengbam
+  👋 Kon'nichiwa, I'm Tanish Wahengbam
 </h1>
 
 <p align="center">
