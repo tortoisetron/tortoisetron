@@ -225,7 +225,7 @@ Zoho Integrations
 Multilingual AI Applications
         ↓
 SaaS Experiments
-
+```
 
 ---
 
@@ -235,11 +235,10 @@ SaaS Experiments
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tortoisetron&theme=github-dark" />
 </p>
 
-<img src="https://raw.githubusercontent.com/tortoisetron/tortoisetron/output/github-contribution-grid-snake-dark.svg" />
-
 ---
 
 ## 🏆 Achievements
+
 - Founder & Developer of [Phungasang](https://phungasang.in) — an AI-powered multilingual education and cultural preservation platform
 - Built **production-level eCommerce systems**
 - Developed **AI-powered applications (RAG + Agentic AI)**
@@ -256,6 +255,8 @@ SaaS Experiments
 ---
 
 ## ⚡ Fun Zone
+
 > "Code. Build. Break. Fix. Repeat."
 
 🚀 Always shipping something new.
+
